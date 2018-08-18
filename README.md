@@ -1,4 +1,4 @@
-# ActivityLifeCycle
+# Activity Life Cycle
 
 See it in [Activity Lifecycle][1] (at Android Developers).
 
