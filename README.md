@@ -47,6 +47,10 @@ is finishing (someone called finish() on it, or because the system is temporaril
 of the activity to save space. You can distinguish between> these two scenarios with the isFinishing() method.
 ```
 
+
+```java
+```
+
 License
 --------
 
@@ -64,4 +68,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: http://square.github.io/picasso/
+[1]: https://developer.android.com/reference/android/app/Activity#ActivityLifecycle
